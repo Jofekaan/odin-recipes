@@ -1,3 +1,5 @@
 # odin-recipes
 
-Fill this out at end
+created recip pages linked on a main homepage
+
+used for learning basic layout, lists, and images
